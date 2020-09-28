@@ -16,6 +16,7 @@ const bookSeed = [
     }
 ];
 
+
 db.Book
     .remove({})
     .then(() => db.Book.collection.insertMany(bookSeed))
