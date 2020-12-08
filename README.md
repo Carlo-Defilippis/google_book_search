@@ -1,8 +1,8 @@
-# Google Book Search & Save
+# Google Books Search & Save
 
 ![Screenshot of app](https://raw.githubusercontent.com/Carlo-Defilippis/google_book_search/master/googlebooks.PNG)
 
-## Google Book Search & Save is a React-based application allows users to query and display books from the Google Books API. The backend technologies include Node, Express, and MongoDB, allow users to search for books of interest, save their favorites to a wishlist, and also purchase them later.
+## Google Books Search & Save is a React-based application allows users to query and display books from the Google Books API. The backend technologies include Node, Express, and MongoDB, allow users to search for books of interest, save their favorites to a wishlist, and also purchase them later.
 Table of Contents
 
 * About
